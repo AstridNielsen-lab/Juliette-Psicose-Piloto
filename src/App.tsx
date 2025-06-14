@@ -6,6 +6,7 @@ import { Characters } from './components/Characters';
 import { Script } from './components/Script';
 import { ProductionGuide } from './components/ProductionGuide';
 import { Docs } from './components/Docs';
+import { Support } from './components/Support';
 import { Footer } from './components/Footer';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         <Script />
         <ProductionGuide />
         <Docs />
+        <Support />
       </main>
       <Footer />
     </div>

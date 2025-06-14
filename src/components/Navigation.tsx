@@ -11,6 +11,7 @@ export const Navigation: React.FC = () => {
     { id: 'roteiro', label: 'Roteiro Piloto' },
     { id: 'guia', label: 'Guia de Produção' },
     { id: 'docs', label: 'Documentação' },
+    { id: 'support', label: 'Apoie o Projeto' },
   ];
 
   useEffect(() => {
