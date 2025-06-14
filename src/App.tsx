@@ -5,6 +5,7 @@ import { Synopsis } from './components/Synopsis';
 import { Characters } from './components/Characters';
 import { Script } from './components/Script';
 import { ProductionGuide } from './components/ProductionGuide';
+import { Docs } from './components/Docs';
 import { Footer } from './components/Footer';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Characters />
         <Script />
         <ProductionGuide />
+        <Docs />
       </main>
       <Footer />
     </div>

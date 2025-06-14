@@ -10,6 +10,7 @@ export const Navigation: React.FC = () => {
     { id: 'personagens', label: 'Personagens' },
     { id: 'roteiro', label: 'Roteiro Piloto' },
     { id: 'guia', label: 'Guia de Produção' },
+    { id: 'docs', label: 'Documentação' },
   ];
 
   useEffect(() => {
