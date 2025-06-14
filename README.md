@@ -133,7 +133,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 **Julio Campos Machado**
 - Writer | Engineer Prompt | Artificial Intelligence | BCI Engineer | NLP
-- GitHub: [@juliocamposmachado](https://github.com/juliocamposmachado)
+- GitHub: [@juliocamposmachado](https://github.com/AstridNielsen-lab)
 - LinkedIn: [Julio Campos Machado](https://linkedin.com/in/juliocamposmachado)
 
 ---
